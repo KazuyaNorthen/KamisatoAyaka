@@ -7,9 +7,9 @@ class Config(object):
 
     CASH_API_KEY = "JG8MXDJVLPQCIP84"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
-    DATABASE_URL = "postgres://cpdrwphc:LXuKxTftoPMnZ575JTP479F9Sf7f8XXg@tyke.db.elephantsql.com/cpdrwphc"  # A sql database url from elephantsql.com
+    DATABASE_URL = "postgres://deujfgcn:c2IPY0hiXm6oLW1Yg-G136bMG48XV4RQ@floppy.db.elephantsql.com/deujfgcn"  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = (-1001960654405)  # Event logs channel to note down important bot level events
+    EVENT_LOGS = (-1001879624317)  # Event logs channel to note down important bot level events
 
     MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
 
@@ -18,7 +18,7 @@ class Config(object):
 
     SUPPORT_CHAT = "PegasusFederation2"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = ""  # Get bot token from @BotFather on Telegram
+    TOKEN = "5844752641:AAGjeauGIy7ZxDbDrBHQsEHXOV5LU3yvnSw"  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
 
